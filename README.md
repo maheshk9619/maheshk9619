@@ -37,4 +37,4 @@
 <br/>
 
 ###
-![Pratheek's github stats](https://github-readme-stats.vercel.app/api?username=pratheekmurthy&show_icons=true&theme=radical&bg_color=#ffffff)
+![Mahesh c's github stats](https://github-readme-stats.vercel.app/api?username=maheshk9619&show_icons=true&theme=radical&bg_color=#ffffff)
