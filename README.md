@@ -1,16 +1,40 @@
-### Hi there 👋
+<h2> Hi there 👋, I’m Mahesh !</h2>
 
-<!--
-**maheshk9619/maheshk9619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🕸️ &nbsp; quick learner and ready to face new challenges..
+- 🔭 &nbsp; Currently working on **Front-End Development (Javascript, React, Redux)** .
+- 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; JavaScript | ES6 
+- 🌐 &nbsp; HTML | CSS | ReactJS |Redux | Material ui
+- 🔧 &nbsp; Git | Postman 
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://https://www.linkedin.com/in/pratheek-k-a8766318a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pratheek%20k-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:pratheekkmurthy516@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pratheekkmurthy516%40gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
+### Languages and Tools:
+
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
+<br/>
+<br/>
+
+###
+![Pratheek's github stats](https://github-readme-stats.vercel.app/api?username=pratheekmurthy&show_icons=true&theme=radical&bg_color=#ffffff)
