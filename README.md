@@ -16,8 +16,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://https://www.linkedin.com/in/pratheek-k-a8766318a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pratheek%20k-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:pratheekkmurthy516@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pratheekkmurthy516%40gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/mahesh-c-46748bb8"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pratheek%20k-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:maheshk9619@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maheshk9619%40gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 ### Languages and Tools:
