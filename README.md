@@ -16,7 +16,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mahesh-c-46748bb8"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pratheek%20k-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mahesh-c-46748bb8"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahesh%20C-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:maheshk9619@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maheshk9619%40gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
